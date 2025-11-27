@@ -1,4 +1,3 @@
-from innowise_laboratory.lecture_3.ф import add_new_student
 
 student  = []
 def main():
